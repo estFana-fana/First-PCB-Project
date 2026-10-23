@@ -1,0 +1,13 @@
+Reference Designators;Quantity;Description;Package;Value;Manufacturer;Manufacturer Part Number;Vendor;Vendor Part Number;Top/Bottom;
+;1;Board;Board;;;;;;;
+IC1;1;I2C-Bus Remote 8-bit I/O expander;DIL16;PCF8574P;;PCF8574PN;;;Top;
+R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12;12;RESISTOR, European symbol;0207/10;;;;;;Top;
+S1;1;DIL/CODE Switch;DS-02;DS02;Multicomp Pro;MCNDS-02V;;;Top;
+S2, S3, S4, S5, S6, S7, S8, S9;8;OMRON SWITCH;B3F-10XX;;;B3F-1000;;;Top;
+SG1, SG2;2;BUZZER Source: Buerklin;F/QMBIII;F/QMBIII;;;;;Bottom;
+U$1, U$2;2;;1X08;PINHD-1X08_1X08M;;;;;Top;
+U$3;1;;1X05;PINHD-1X05_1X05M;;;;;Top;
+U$4;1;;1X03;PINHD-1X03_1X03M;;;;;Top;
+U$5;1;;1X02;PINHD-1X02_1X02M;;;;;Top;
+U1;1;;ATTINY85;ATTINY85;;;;;Top;
+WEMOS1;1;WeMos.cc;WEMOS-D1-MINI;;;;;;Top;
