@@ -4,11 +4,13 @@ I have finished copying the schematic from the article above using Fusion 360 an
 Note: For the routing part, I used the autorouting feature in Fusion.
 Here are the image of the result:
 The Schematic
-![Schematic](<img width="675" height="348" alt="Screenshot 2026-10-20 at 10 17 35 at night" src="https://github.com/user-attachments/assets/4ea3ec88-21f6-4a39-9885-1579d2322dd3" />
+![Schematic](<img width="770" height="382" alt="Screenshot 2026-10-23 at 4 37 40 in the afternoon" src="https://github.com/user-attachments/assets/02ea4cce-1362-404f-85a4-21b276e3b20b" />
 )
 The 2D PCB design
-![2D design](<img width="774" height="435" alt="Screenshot 2026-10-20 at 10 16 38 at night" src="https://github.com/user-attachments/assets/85e934aa-1cdb-4fca-91e3-58713004ba87" />
+![2D design](<img width="587" height="346" alt="Screenshot 2026-10-23 at 5 06 39 in the afternoon" src="https://github.com/user-attachments/assets/eef6a5c9-9f81-498f-a6c9-a4255d7e33a1" />
 )
 The 3D PCB design
-![3D design](<img width="823" height="439" alt="Screenshot 2026-10-20 at 10 16 06 at night" src="https://github.com/user-attachments/assets/2a5a38ad-5932-4120-a6ec-fd9b65b6b302" />
+![3D design](<img width="602" height="366" alt="Screenshot 2026-10-23 at 5 05 03 in the afternoon" src="https://github.com/user-attachments/assets/81ae728d-9da6-4f54-917d-230c4acbc45d" />
+)
+![Bottom](<img width="563" height="350" alt="Screenshot 2026-10-23 at 5 05 51 in the afternoon" src="https://github.com/user-attachments/assets/b7204eb4-fc6b-444e-bdea-f93c3a57f652" />
 )
