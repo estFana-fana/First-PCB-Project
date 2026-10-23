@@ -1,7 +1,7 @@
 # First-PCB-Project
 This project is a handheld gaming console that can run snake game. The project is originally from this article: https://www.allaboutcircuits.com/projects/upgrading-my-retro-handheld-gaming-console-with-motion-control-and-an-lcd/
 I have finished copying the schematic from the article above using Fusion 360 and 2D along with 3D design of the PCB design as well. 
-Note: For the routing part, I used the autorouting feature in Fusion.
+
 Here are the image of the result:
 The Schematic
 ![Schematic](<img width="770" height="382" alt="Screenshot 2026-10-23 at 4 37 40 in the afternoon" src="https://github.com/user-attachments/assets/02ea4cce-1362-404f-85a4-21b276e3b20b" />
